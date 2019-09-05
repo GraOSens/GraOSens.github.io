@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/easterEgg/static/css/main.8b114f85.chunk.css",
+    "main.js": "/easterEgg/static/js/main.70a3efe4.chunk.js",
+    "main.js.map": "/easterEgg/static/js/main.70a3efe4.chunk.js.map",
+    "runtime~main.js": "/easterEgg/static/js/runtime~main.5c675a3b.js",
+    "runtime~main.js.map": "/easterEgg/static/js/runtime~main.5c675a3b.js.map",
+    "static/js/2.6e7f4109.chunk.js": "/easterEgg/static/js/2.6e7f4109.chunk.js",
+    "static/js/2.6e7f4109.chunk.js.map": "/easterEgg/static/js/2.6e7f4109.chunk.js.map",
+    "index.html": "/easterEgg/index.html",
+    "precache-manifest.492dfc665ab706f4aed0f532f50133e1.js": "/easterEgg/precache-manifest.492dfc665ab706f4aed0f532f50133e1.js",
+    "service-worker.js": "/easterEgg/service-worker.js",
+    "static/css/main.8b114f85.chunk.css.map": "/easterEgg/static/css/main.8b114f85.chunk.css.map",
+    "static/media/index.css": "/easterEgg/static/media/PressStart2P-Regular.2c404fd0.ttf"
+  }
+}
