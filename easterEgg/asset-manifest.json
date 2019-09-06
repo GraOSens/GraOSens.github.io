@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/easterEgg/static/css/main.9bb42b3f.chunk.css",
+    "main.css": "/easterEgg/static/css/main.20f70a2a.chunk.css",
     "main.js": "/easterEgg/static/js/main.07ca4800.chunk.js",
     "main.js.map": "/easterEgg/static/js/main.07ca4800.chunk.js.map",
     "runtime~main.js": "/easterEgg/static/js/runtime~main.5c675a3b.js",
@@ -8,9 +8,9 @@
     "static/js/2.6e7f4109.chunk.js": "/easterEgg/static/js/2.6e7f4109.chunk.js",
     "static/js/2.6e7f4109.chunk.js.map": "/easterEgg/static/js/2.6e7f4109.chunk.js.map",
     "index.html": "/easterEgg/index.html",
-    "precache-manifest.a7d228ab70eca62894456a0accaa70ac.js": "/easterEgg/precache-manifest.a7d228ab70eca62894456a0accaa70ac.js",
+    "precache-manifest.556d07283ef2738b8eccf84fe4633fe9.js": "/easterEgg/precache-manifest.556d07283ef2738b8eccf84fe4633fe9.js",
     "service-worker.js": "/easterEgg/service-worker.js",
-    "static/css/main.9bb42b3f.chunk.css.map": "/easterEgg/static/css/main.9bb42b3f.chunk.css.map",
+    "static/css/main.20f70a2a.chunk.css.map": "/easterEgg/static/css/main.20f70a2a.chunk.css.map",
     "static/media/index.css": "/easterEgg/static/media/PressStart2P-Regular.2c404fd0.ttf"
   }
 }
